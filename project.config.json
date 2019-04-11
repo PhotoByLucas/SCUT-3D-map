@@ -1,6 +1,6 @@
 {
 	"miniprogramRoot": "miniprogram/",
-	"cloudfunctionRoot": "./functions/",
+	"cloudfunctionRoot": "functions/",
 	"setting": {
 		"urlCheck": true,
 		"es6": true,
@@ -11,6 +11,8 @@
 	"appid": "wx07edd5ad58d1246e",
 	"projectname": "xiaochengxu",
 	"libVersion": "2.6.1",
+	"simulatorType": "wechat",
+	"simulatorPluginLibVersion": {},
 	"condition": {
 		"search": {
 			"current": -1,
