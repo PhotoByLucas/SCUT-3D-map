@@ -10,3 +10,23 @@
 
 - [云开发文档](https://developers.weixin.qq.com/miniprogram/dev/wxcloud/basis/getting-started.html)
 
+# 开发规范
+### 页面结构
++ 入口页面 
+  + 广场
+  + 地图
+    + 标签
+    + 
++ 个人信息页
+### 工具使用
++ ui框架 iView Weapp https://weapp.iviewui.com
+
+# 记录
++ 通过.json文件中声明引入组件
+~~~
+{
+  "usingComponents": {
+    "component-tag-name": "path/to/the/custom/component"
+  }
+}
+~~~
